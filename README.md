@@ -1,36 +1,48 @@
-# Deloitte-Analytics-Simulation
-Deloitte Forage Virtual Internship – Data Analytics Project using Excel and Tableau
-# 🧾 Deloitte Data Analytics Simulation (Forage)
+# Deloitte Data Analytics Simulation
 
-This repository showcases my work from the **Deloitte Data Analytics Virtual Experience** on Forage.
+Deloitte Forage Virtual Internship – Data Analytics Project using Excel and Tableau.
 
-## 📌 About the Project
+---
 
-The simulation involved analyzing a fictional client’s dataset using Excel and Tableau. The goal was to identify insights, trends, and present a dashboard to support decision-making.
+## 📌 Project Overview
 
-## 🔧 Tools Used
+This repository contains my work completed as part of the Deloitte Data Analytics Virtual Experience Program on Forage.
+
+The project focused on analyzing a fictional client dataset, identifying insights, trends, and building dashboards to support data-driven decision-making.
+
+---
+
+## 🛠️ Tools & Technologies
 
 - Microsoft Excel
 - Tableau Public
 
-## 📸 Screenshots
+---
 
-You can find screenshots of:
-- Data cleaning steps
-- Charts & pivot tables
-- Final dashboard
+## 📊 Key Tasks Performed
 
-## 💡 Key Learnings
-
-- Cleaned and prepared data using Excel formulas and filters  
-- Identified key metrics and created visualizations using Tableau  
-- Interpreted business requirements and communicated findings clearly
-
-## 📁 Files
-
-- `/screenshots` – Contains snapshots of my work
+- Cleaned and prepared raw data using Excel
+- Applied formulas, filters, and data analysis techniques
+- Identified business insights and trends
+- Created interactive dashboards and visualizations using Tableau
+- Presented findings in a clear and structured format
 
 ---
 
-> 🔗 This project was part of the Forage Virtual Internship Program by Deloitte.
+## 📈 Key Learnings
 
+- Data cleaning and preprocessing
+- Business-oriented data analysis
+- Dashboard creation and visualization
+- Insight communication and reporting
+
+---
+
+## 📸 Project Screenshots
+
+---
+
+## 📁 Repository Structure
+
+```bash
+/screenshots   → Contains project screenshots
