@@ -39,6 +39,7 @@ The project focused on analyzing a fictional client dataset, identifying insight
 ---
 
 ## 📸 Project Screenshots
+1. Dashboard ![Screenshot](https://github.com/user-attachments/assets/49088618-503c-4e01-a5ad-df3140b1490e)
 
 ---
 
